@@ -1,0 +1,35 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: rgb(23, 248, 229);
+    color: rgb(3, 13, 105);
+    text-align: center;
+    padding: 20px;
+}
+
+main {
+    text-align: center;
+    padding: 20px;
+}
+
+footer {
+    background-color: rgb(23, 4, 92);
+    color: rgb(50, 241, 241);
+    text-align: center;
+    padding: 20px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
+}
+
+.image-container img {
+    width: 50%;
+    margin: 10px;
+}
